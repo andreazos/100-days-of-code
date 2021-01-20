@@ -8,4 +8,4 @@ The log of my #100DaysOfCode challenge. Started on [January 18, Monday, 2021]. M
 Finished the HTML and CSS parts of the curriculum on FreeCodeCamp (I was missing one task on each). Started the Applied Visual Design Part.
 
 ### R1D2
-Started on Use the text-transform Property to Make Text Uppercase (13/52) finished on 
+Started on Use the text-transform Property to Make Text Uppercase (13/52) finished on Change an Element's Relative Position (17/52). Could only do 20 mins because of internet. I'll try to make the rest up up tomorrow.
