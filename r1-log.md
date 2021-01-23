@@ -14,4 +14,7 @@ Started on Use the text-transform Property to Make Text Uppercase (13/52) finish
 Did around 20 mins in the morning, got to Lock an Element to the Browser Window with Fixed Positioning (22/52). Picked it up again at night, got to Create a Gradual CSS Linear Gradient (31/52) [Pretty!!!!]
 
 ### R1D4
-Started on Applied Visual Design: Use a CSS Linear Gradient to Create a Striped Element (32/52) finished on Use CSS Animation to Change the Hover State of a Button (40/52). 
+Started on Applied Visual Design: Use a CSS Linear Gradient to Create a Striped Element (32/52) finished on Applied Visual Design: Learn How the CSS @keyframes and animation Properties Work (40/52). 
+
+### R1D4
+Started on Applied Visual Design: Use CSS Animation to Change the Hover State of a Button (41/52) got to Make Motion More Natural Using a Bezier Curve (52/52). Started the Introduction to the Applied Accessibility Challenges. Got to Wrap Content in the article Element (5/22)
