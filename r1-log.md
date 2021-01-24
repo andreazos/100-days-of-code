@@ -18,3 +18,6 @@ Started on Applied Visual Design: Use a CSS Linear Gradient to Create a Striped 
 
 ### R1D4
 Started on Applied Visual Design: Use CSS Animation to Change the Hover State of a Button (41/52) got to Make Motion More Natural Using a Bezier Curve (52/52). Started the Introduction to the Applied Accessibility Challenges. Got to Wrap Content in the article Element (5/22)
+
+### R1D5
+Started on Applied Accessibility: Make Screen Reader Navigation Easier with the header Landmark (6/22) got to Applied Accessibility: Avoid Colorblindness Issues by Using Sufficient Contrast (17/22)
