@@ -16,8 +16,11 @@ Did around 20 mins in the morning, got to Lock an Element to the Browser Window 
 ### R1D4
 Started on Applied Visual Design: Use a CSS Linear Gradient to Create a Striped Element (32/52) finished on Applied Visual Design: Learn How the CSS @keyframes and animation Properties Work (40/52). 
 
-### R1D4
+### R1D5
 Started on Applied Visual Design: Use CSS Animation to Change the Hover State of a Button (41/52) got to Make Motion More Natural Using a Bezier Curve (52/52). Started the Introduction to the Applied Accessibility Challenges. Got to Wrap Content in the article Element (5/22)
 
-### R1D5
+### R1D6
 Started on Applied Accessibility: Make Screen Reader Navigation Easier with the header Landmark (6/22) got to Applied Accessibility: Avoid Colorblindness Issues by Using Sufficient Contrast (17/22)
+
+### R1D7
+Started on Applied Accessibility: Avoid Colorblindness Issues by Carefully Choosing Colors that Convey Information (18/22) got to Applied Accessibility: Use tabindex to Specify the Order of Keyboard Focus for Several Elements (22/22). Started and finished the Responsive Web Design Principles (4/4).
