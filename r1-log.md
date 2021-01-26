@@ -26,4 +26,4 @@ Started on Applied Accessibility: Make Screen Reader Navigation Easier with the 
 Started on Applied Accessibility: Avoid Colorblindness Issues by Carefully Choosing Colors that Convey Information (18/22) got to Applied Accessibility: Use tabindex to Specify the Order of Keyboard Focus for Several Elements (22/22). Started and finished the Responsive Web Design Principles (4/4).
 
 ### R1D8
-Started CSS Flexbox part on CSS Flexbox: Use display: flex to Position Two Boxes (1/17) got to CSS Flexbox: Use the align-self Property (17/17). I think I can tackle some of the challenges, I'll try when my eye heals.
+Started on CSS Flexbox: Use display: flex to Position Two Boxes (1/17) got to CSS Flexbox: Use the align-self Property (17/17). I think I can tackle some of the challenges, I'll try when my eye heals.
