@@ -27,3 +27,6 @@ Started on Applied Accessibility: Avoid Colorblindness Issues by Carefully Choos
 
 ### R1D8
 Started on CSS Flexbox: Use display: flex to Position Two Boxes (1/17) got to CSS Flexbox: Use the align-self Property (17/17). I think I can tackle some of the challenges, I'll try when my eye heals.
+
+### R1D9
+Couldn't do anything yesterday :'( Started today with Introduction to the CSS Grid. Got to Create Your First CSS Grid (1/22). I wasn't retaining the lessons so I started working on one of the "Build a Tribute Page" project. Emphasis on "started".
