@@ -30,3 +30,6 @@ Started on CSS Flexbox: Use display: flex to Position Two Boxes (1/17) got to CS
 
 ### R1D9
 Couldn't do anything yesterday :'( Started today with Introduction to the CSS Grid. Got to Create Your First CSS Grid (1/22). I wasn't retaining the lessons so I started working on one of the "Build a Tribute Page" project. Emphasis on "started".
+
+### R1D10
+Started at CSS Grid: Add Columns with grid-template-columns (2/22) got to CSS Grid: Reduce Repetition Using the repeat Function (17/22)
